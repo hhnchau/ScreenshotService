@@ -1,4 +1,4 @@
-package m.hanet.forcegoundservice;
+package m.hanet.forcegoundservice.screenshot;
 
 import android.app.Service;
 import android.content.Context;
@@ -14,7 +14,6 @@ import android.media.MediaScannerConnection;
 import android.media.projection.MediaProjection;
 import android.media.projection.MediaProjectionManager;
 import android.net.Uri;
-import android.os.Environment;
 import android.os.Handler;
 import android.os.IBinder;
 import android.os.Message;

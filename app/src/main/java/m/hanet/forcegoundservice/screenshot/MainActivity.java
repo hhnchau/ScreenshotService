@@ -1,4 +1,4 @@
-package m.hanet.forcegoundservice;
+package m.hanet.forcegoundservice.screenshot;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -15,6 +15,8 @@ import android.os.Message;
 import android.os.Messenger;
 import android.os.RemoteException;
 import android.view.View;
+
+import m.hanet.forcegoundservice.R;
 
 public class MainActivity extends AppCompatActivity {
 
